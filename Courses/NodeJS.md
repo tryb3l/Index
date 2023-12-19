@@ -4,7 +4,8 @@
 Перед основной частью курса по Node.js нужно сначала освоить хоть частично курс
 по асинхронному программированию: https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md
 
-[Для части лекций есть таймкоды и подробное оглавление](NodeJS-timecodes.md)
+- [Для части лекций есть таймкоды и подробное оглавление](NodeJS-timecodes.md)
+- [Новый курс Node.js 2023](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS-2022-2023.md)
 
 ## Доклады и выступления
 
@@ -38,7 +39,7 @@
   - Слайды: https://www.slideshare.net/tshemsedinov/nodejs-in-2019
 - [Асинхронное программирование в Node.js](https://youtu.be/hY6Z6qNYzmc)
   - Это только обзорная лекция, ссылка на курс по асинхронному программированию
-  находится выше, перед оглавлением
+    находится выше, перед оглавлением
 - [Обзор встроенного Node.js API](https://youtu.be/sOkjR-N6IAs)
   - Ссылка на документацию: https://nodejs.org/api/documentation.html
 - [Настройка среды: Node.js, npm, git, eslint](https://youtu.be/hSyA7tcNaCE)
@@ -71,11 +72,7 @@
   - Примеры кода: https://github.com/HowProgrammingWorks/InterProcessCommunication
 - [Слои, связанность и связность кода](https://youtu.be/A3RpwNlVeyY)
   - Примеры кода: https://github.com/HowProgrammingWorks/Abstractions
-- [GRASP принципы с адаптацией для JavaScript и Node.js](https://youtu.be/ExauFjYV_lQ)
-- [Принцип информационный эксперт / Information Expert](https://youtu.be/cCHL329_As0)
-- [Зацепление и связность / coupling and cohesion](https://youtu.be/IGXdPOZ3Fyk)
-- [Чистая выдумка / Pure Fabrication](https://youtu.be/CV577a0RHBM)
-- [GRASP: Пример декомпозиции класса](https://youtu.be/4AMVQ2-2DcM)
+- [GRASP принципы](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/GRASP.md)
 
 ## Разработка серверов приложений и API на Node.js
 
@@ -130,7 +127,7 @@
   - Семафоры: https://github.com/HowProgrammingWorks/Semaphore
   - Мьютексы: https://github.com/HowProgrammingWorks/Mutex
 - [Разделяемая память в многопоточном Node.js](https://youtu.be/KNsm_iIQt7U) -
-доклад на конференции JS Fest 2019 Spring
+  доклад на конференции JS Fest 2019 Spring
   - Слайды: https://www.slideshare.net/JSFestUA/js-fest-2019-nodejs
 - [Web Locks API in Node.js and browser](https://youtu.be/auMM-uV12F0)
   - Слайды: https://www.slideshare.net/tshemsedinov/web-locks-api
@@ -153,3 +150,5 @@
 ## Вспомогательные темы
 
 - [Асинхронный пул для worker thread pool в Node.js](https://youtu.be/Jj5KZRq4wYI)
+
+👉 [Новый курс Node.js 2023](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS-2022-2023.md)
